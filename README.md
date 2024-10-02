@@ -57,7 +57,7 @@ French student
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about web development, writing mistake-free documentation or AI, feel free to <a href="mailto:kkapgate5@gmail.com">contact me by email</a>, I won't bite, I promise.
+If you have any questions about web development or writing a novel, feel free to <a href="mailto:axel.github@outlook.com">contact me by email</a>.
 
   </td>
   <td width="50%" valign="top">
