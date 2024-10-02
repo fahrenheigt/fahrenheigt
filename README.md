@@ -64,8 +64,6 @@ If you have any questions about web development or writing a novel, feel free to
 
 ## ... and on mine too
 
-**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
-
 Any suggestion for one of my projects ? Feel free to <a href="mailto:axel.github@outlook.com">contact me by email</a>.
 
   </td>
