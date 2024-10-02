@@ -55,19 +55,18 @@ French student
 
 [//]: # (Fighting against markdown and blocks isn't easy, indentation is catastrophic)
 
-## Let's Work on Your Project Together!
+## Let's Work on your projects Together...
 
 If you have any questions about web development or writing a novel, feel free to <a href="mailto:axel.github@outlook.com">contact me by email</a>.
 
   </td>
   <td width="50%" valign="top">
 
-## It's not perfect, isn't it?
+## ... and on mine too
 
 **<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
 
-<blockquote>“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-<br><strong>– Elon Musk</strong></blockquote>
+Any suggestion for one of my projects ? Feel free to <a href="mailto:axel.github@outlook.com">contact me by email</a>.
 
   </td>
   </tr>
